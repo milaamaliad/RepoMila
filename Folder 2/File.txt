@@ -1,0 +1,5 @@
+Anda dapat mengecek project yang sudah anda clone di directory yang anda pilih tadi.
+
+Sekian tutorial clone sebuah repository dari github yang dapat saya bagikan kali ini, sampai bertemu kembali di tutorial selanjutnya.
+
+Terima kasih, happy coding :)
